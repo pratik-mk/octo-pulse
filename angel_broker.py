@@ -5,7 +5,6 @@ from logzero import logger
 class AngelBroker:
     """
     AngelBroker class to handle login and live feed services.
-    This class initializes the login and live feed services and provides methods to interact with them.
     """
 
     def __init__(self):
